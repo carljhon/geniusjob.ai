@@ -392,6 +392,10 @@ a:focus {
         padding: 10px 15px;
         letter-spacing: 1px;
     }
+    .hero .hero-image {
+        text-align: center;
+        padding-right: 0;
+    }
 }
 
 @media (max-width: 575.98px) {
@@ -936,7 +940,7 @@ a:focus {
 }
 
 .banner .section-header p {
-    color: #414141;
+    color: #89d6fb;
     background: transparent;
 }
 
@@ -949,7 +953,7 @@ a:focus {
 }
 
 .banner .section-header h2 span {
-    color: #414141;
+    color: #89d6fb;
     font-size: 50px;
 }
 
